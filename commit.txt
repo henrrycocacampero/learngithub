@@ -1,0 +1,35 @@
+commit 434621a14e51c2eb0d70ef8028a3897b9a3c4bcf
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:43:35 2015 -0400
+
+    Agregadno mi portafolio
+
+commit 20e9fe835c6d2c3c20eddbda26e27617147c2a6e
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:41:27 2015 -0400
+
+    Agregado descripcion
+
+commit 4c6317eb129f5519c950fff03a8ff20b02b5b1fd
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:40:15 2015 -0400
+
+    Agrege redes sociales
+
+commit 37e17e19e22ce444f943309838a3a72a1f0faad0
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:37:11 2015 -0400
+
+    Perfil web modificado
+
+commit 19c4f3264cd1c1f1ee162b1ee23292b7d143d83a
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:34:56 2015 -0400
+
+    Modifique mi nombre
+
+commit ed6bbf463c5c5ad594b010909cd413c3b4f40779
+Author: Henrry Coca <henry_0103@hotmail.com>
+Date:   Wed Jun 3 18:28:36 2015 -0400
+
+    Estos son lo archivos base de mi portafolio
